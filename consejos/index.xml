@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consejos on ManualSalud.com</title>
+    <link>https://manualsalud.com/consejos/</link>
+    <description>Recent content in Consejos on ManualSalud.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© year title. Todos los derechos reservados.</copyright>
+    
+	<atom:link href="https://manualsalud.com/consejos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Periodos de exclusión escolar</title>
+      <link>https://manualsalud.com/periodos-de-exclusion-escolar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/periodos-de-exclusion-escolar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patógenos on ManualSalud.com</title>
+    <link>https://manualsalud.com/patogenos/</link>
+    <description>Recent content in Patógenos on ManualSalud.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© year title. Todos los derechos reservados.</copyright>
+    
+	<atom:link href="https://manualsalud.com/patogenos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bacterias</title>
+      <link>https://manualsalud.com/bacterias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/bacterias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chlamydia trachomatis</title>
+      <link>https://manualsalud.com/chlamydia-trachomatis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/chlamydia-trachomatis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neisseria gonorrhoeae</title>
+      <link>https://manualsalud.com/neisseria-gonorrhoeae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/neisseria-gonorrhoeae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protozoo</title>
+      <link>https://manualsalud.com/protozoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/protozoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salmonella</title>
+      <link>https://manualsalud.com/salmonella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/salmonella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salmonella typhi</title>
+      <link>https://manualsalud.com/salmonella-typhi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/salmonella-typhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trichomonas vaginalis</title>
+      <link>https://manualsalud.com/trichomonas-vaginalis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/trichomonas-vaginalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virus de la hepatitis A</title>
+      <link>https://manualsalud.com/virus-de-la-hepatitis-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manualsalud.com/virus-de-la-hepatitis-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
